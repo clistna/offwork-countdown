@@ -1,6 +1,6 @@
 {
   "meta": {
     "title": "Off-work Countdown",
-    "description": "Shows a live countdown to your 5:30 PM off-work time below the composer."
+    "description": "Floats a draggable off-work countdown over the page."
   }
 }

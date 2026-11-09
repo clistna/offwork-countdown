@@ -1,6 +1,6 @@
 # 下班倒计时 / Off-work Countdown
 
-一个 DeepSeek Harness 插件：在会话输入框下方实时显示距离下班的时间。
+一个 DeepSeek Harness 插件：在页面上悬浮显示距离下班的时间，可自由拖动到任意位置（位置会记住）。
 
 ## 功能
 
